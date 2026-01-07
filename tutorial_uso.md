@@ -9,7 +9,7 @@ Bem vindo(a) ao tutorial de uso do Playstube 2.0.0, aqui, você vai entender com
 Antes de tudo, nesse tutorial estamos considerando que você está com o [NPM e o NodeJS](https://nodejs.org/en/download) instalados e configurados.
 
 # Realizando o Download
-Para realizar o Download, é muito simples, basta [clicar aqui](https://github.com/Hsyst/Playstube/releases/) e extrair o arquivo ".zip", e abrir a pasta aonde contém os arquivos ".js".
+Para realizar o Download, é muito simples, basta [clicar aqui](https://github.com/Hsyst-Essentials/Playstube/releases/) e extrair o arquivo ".zip", e abrir a pasta aonde contém os arquivos ".js".
 
 # Configurando o ambiente para uso
 Abra o CMD ou Terminal em seu computador, **na pasta onde contém os arquivos JS** e em seguida, execute os seguintes comandos:
@@ -23,7 +23,7 @@ npm install
 
 ---
 
-Abra o arquivo da versão de você deseja (index.js == versão HTTP), (index-ssl.js == versão HTTPS/SSL), em seguida, altere as linhas que você achar interessante. [clique aqui e veja quais são as linhas](https://github.com/Hsyst/Playstube/tree/main#configura%C3%A7%C3%B5es-b%C3%A1sicas)
+Abra o arquivo da versão de você deseja (index.js == versão HTTP), (index-ssl.js == versão HTTPS/SSL), em seguida, altere as linhas que você achar interessante. [clique aqui e veja quais são as linhas](https://github.com/Hsyst-Essentials/Playstube/tree/main#configura%C3%A7%C3%B5es-b%C3%A1sicas)
 
 ---
 
