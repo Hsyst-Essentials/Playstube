@@ -1,8 +1,8 @@
 # Acesse o Tutorial de Uso
-Caso você deseje apenas executar nosso serviço, não precisa se preocupar, [fizemos um tutorial](https://github.com/Hsyst/Playstube/blob/main/tutorial_uso.md) simples e detalhado de como executar o Playstube 2.0.0 em seu próprio servidor, ou computador.
+Caso você deseje apenas executar nosso serviço, não precisa se preocupar, [fizemos um tutorial](https://github.com/Hsyst-Essentials/Playstube/blob/main/tutorial_uso.md) simples e detalhado de como executar o Playstube 2.0.0 em seu próprio servidor, ou computador.
 
 # Realize o Download
-Caso já tenha lido o Tutorial de Uso, ou deseja realizar o download primeiro, basta [clicar aqui](https://github.com/Hsyst/Playstube/releases)
+Caso já tenha lido o Tutorial de Uso, ou deseja realizar o download primeiro, basta [clicar aqui](https://github.com/Hsyst-Essentials/Playstube/releases)
 
 ---
 ---
@@ -174,7 +174,7 @@ Após terminar o Upload, e ele responder com Concluido, você pode adicionar o v
 Já matamos mais um, simbora para o...
 
 # Como executar?
-Muito simples, nós criamos o [tutorial de uso](https://github.com/Hsyst/Playstube/blob/main/tutorial_uso.md), que você e todos podem consultar para entender como baixar, e executar o Playstube 2.0.0.
+Muito simples, nós criamos o [tutorial de uso](https://github.com/Hsyst-Essentials/Playstube/blob/main/tutorial_uso.md), que você e todos podem consultar para entender como baixar, e executar o Playstube 2.0.0.
 
 # Configurações Básicas
 Vamos separar pelo Playstube-Main (HTTP), e o Playstube-SSL (HTTPS)/(SSL).
@@ -237,4 +237,4 @@ Vamos separar pelo Playstube-Main (HTTP), e o Playstube-SSL (HTTPS)/(SSL).
 Agradecemos pela escolha, e esperamos que você goste do Playstube e dos outros projetos daqui da Hsyst, e queremos dizer que tudo isso é uma visão geral da parte técnica do Playstube, porém, recomendamos fortemente que vocês leiam o código, pois pode ter coisas que ainda não foram documentadas aqui 😄...
 
 # Licença
-Este projeto está sob a licença da: [The Unlicense](https://github.com/Hsyst/Playstube/blob/main/LICENSE).
+Este projeto está sob a licença da: [The Unlicense](https://github.com/Hsyst-Essentials/Playstube/blob/main/LICENSE).
